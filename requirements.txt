@@ -1,0 +1,7 @@
+# Python dependencies
+fastapi
+uvicorn
+psycopg2
+elasticsearch
+prometheus-client
+python-dotenv

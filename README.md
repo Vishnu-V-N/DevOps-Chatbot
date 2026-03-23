@@ -1,1 +1,1 @@
-# DevOps-Chatbot
+# DevOps-Chatbot - An intelligent DevOps assistant chatbot

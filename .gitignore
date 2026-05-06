@@ -8,7 +8,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-# IDEs
 .idea/
 .vscode/
 *.py[cod]
